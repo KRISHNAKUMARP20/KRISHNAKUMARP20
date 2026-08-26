@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Krishnakumar 👋
 
-<!--
-**KRISHNAKUMARP20/KRISHNAKUMARP20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Web Designer & Developer
 
-Here are some ideas to get you started:
+I'm a passionate **Web Designer and Developer** who enjoys creating responsive, modern, and user-friendly websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+
+* 🎨 Design clean and attractive websites
+* 💻 Develop responsive web applications
+* 🧩 Build interactive and user-friendly interfaces
+* 🚀 Turn ideas into real-world projects
+
+### 🛠️ Skills
+
+**HTML • CSS • JavaScript • Java • SQL • Git • GitHub**
+
+### 📌 Currently
+
+Learning, building projects, and improving my skills in **Web Design & Development**.
+
+### 🎯 Career Goal
+
+Looking for opportunities where I can **learn, contribute, and grow as a Web Developer**.
+
+### 🤝 Open To
+
+**Internships • Freelance Projects • Collaborations • Entry-Level Opportunities**
+
+Thanks for visiting my profile! 🚀
