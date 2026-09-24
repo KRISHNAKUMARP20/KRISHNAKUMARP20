@@ -1,8 +1,4 @@
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=👋 KRISHNAKUMAR" />
-</div>
-
+#👋 KRISHNAKUMAR
 
 
 
