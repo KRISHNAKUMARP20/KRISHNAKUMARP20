@@ -1,3 +1,11 @@
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=👋 KRISHNAKUMAR" />
+</div>
+
+
+
+
 # 💫 About Me:
 💻 **I’m a passionate Web Designer & Web Developer who creates modern, responsive, and user-friendly websites and web applications.**<br>
 
