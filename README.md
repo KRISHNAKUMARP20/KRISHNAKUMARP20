@@ -1,57 +1,67 @@
 <div align="center">
 
-# 👋 Hi, I'm KRISHNAKUMAR
+# ⚡🌈 KK | KRISHNAKUMAR 🌈⚡
 
-### 💻 Full-Stack Developer | Java Developer | AI & Web Enthusiast
+### 💻 Full-Stack Developer • ☕ Java Developer • 🤖 AI & Web Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Java+Developer+%E2%98%95;AI+%26+Web+Enthusiast+%F0%9F%A4%96;Building+Real-World+Projects+%F0%9F%9A%80;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+KK+%F0%9F%91%8B;KRISHNAKUMAR+%7C+Developer+%F0%9F%92%BB;Java+%E2%98%95+%7C+Web+%F0%9F%8C%90+%7C+AI+%F0%9F%A4%96;Building+Real-World+Projects+%F0%9F%9A%80;Turning+Ideas+Into+Working+Applications+%E2%9A%A1;Always+Learning.+Always+Building.+%F0%9F%94%A5" />
 
 <br>
 
+<img src="https://img.shields.io/badge/KK-Developer-7F00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KRISHNAKUMAR-IT%20Student-00C7B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BUILDING-REAL%20WORLD%20PROJECTS-FF1493?style=for-the-badge"/>
+
+<br><br>
+
 <a href="https://krishnakumarp.netlify.app">
-<img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-Visit%20Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20KK%20PORTFOLIO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 
 <a href="https://github.com/KRISHNAKUMARP20">
-<img src="https://img.shields.io/badge/GitHub-KRISHNAKUMARP20-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻%20KK%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pkrishnakumar-kk">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:kk6308608@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 🌟 ABOUT KK
 
-> 💻 **Developer • Builder • Learner**
+<div align="center">
 
-I’m **KRISHNAKUMAR (KK)**, an Information Technology student and developer passionate about building modern, practical, and user-focused software solutions.
+### 👨‍💻 **Developer • Builder • Learner • Innovator**
 
-I enjoy working across **Web Development, Java, AI, Databases, Mobile Applications, Linux, and Backend Development**, while continuously learning new technologies and turning ideas into real-world projects.
+</div>
 
-### 💡 What I Do
+I’m **KK (KRISHNAKUMAR)**, an Information Technology student and developer passionate about building **modern, practical, and user-focused software solutions**.
 
-- 🎓 B.Tech Information Technology Student
-- 💻 Full-Stack Web Development
-- ☕ Java Development
-- 🤖 AI-Powered Application Development
-- 🌐 Modern & Responsive Web Applications
-- 🗄️ Database & Backend Development
-- 📱 Mobile Application Development
-- 🐧 Linux & Cybersecurity Fundamentals
-- 🚀 Project Development & Deployment
-- 💡 Turning ideas into working applications
+I enjoy working across **Web Development, Java, AI, Databases, Mobile Applications, Linux, and Backend Development**, while continuously learning new technologies and transforming ideas into real-world projects.
+
+### 🚀 What I Do
+
+- 🎓 **B.Tech Information Technology Student**
+- 💻 **Full-Stack Web Development**
+- ☕ **Java Development**
+- 🤖 **AI-Powered Applications**
+- 🌐 **Modern Responsive Websites**
+- 🗄️ **Database & Backend Development**
+- 📱 **Mobile Application Development**
+- 🐧 **Linux & Cybersecurity Fundamentals**
+- 🚀 **Project Development & Deployment**
+- 💡 **Turning Ideas Into Working Applications**
 
 ---
 
-# 🌐 My Portfolio
+# 🌐✨ KK DIGITAL WORLD
 
 <div align="center">
 
@@ -65,28 +75,33 @@ I enjoy working across **Web Development, Java, AI, Databases, Mobile Applicatio
 
 <br><br>
 
-**Projects • Skills • Experience • Certificates • Contact**
+<img src="https://img.shields.io/badge/Projects-FF1493?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Skills-7F00FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Experience-FF8C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Certificates-00C7B7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Contact-00BFFF?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️💎 TECH STACK
 
 ## 💻 Programming Languages
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </p>
 
 ## 🌐 Web Development
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -98,15 +113,17 @@ I enjoy working across **Web Development, Java, AI, Databases, Mobile Applicatio
 
 ## ☕ Backend & Frameworks
 
-<p align="left">
+<p align="center">
 
-<img src="https://img.shields.io/badge/Java%20Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
 
 </p>
 
 ## 🗄️ Databases
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
@@ -117,7 +134,7 @@ I enjoy working across **Web Development, Java, AI, Databases, Mobile Applicatio
 
 ## ⚙️ Tools & Platforms
 
-<p align="left">
+<p align="center">
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -131,129 +148,143 @@ I enjoy working across **Web Development, Java, AI, Databases, Mobile Applicatio
 
 ---
 
-# 🚀 Featured Projects
+# 🚀🔥 FEATURED PROJECTS
 
 ## 🌐 KK Digital World
 
-> **Personal Developer Portfolio**
+### 💎 Personal Developer Portfolio
 
-A modern portfolio website showcasing my skills, projects, technologies, experience, and development journey.
+A modern portfolio website showcasing my **skills, projects, technologies, experience, and development journey**.
 
-**Tech:** HTML • CSS • JavaScript • Web Development
+**Tech:** `HTML` • `CSS` • `JavaScript` • `Web Development`
 
-<p>
+<p align="center">
+
 <a href="https://krishnakumarp.netlify.app">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 
 <a href="https://github.com/KRISHNAKUMARP20/KRISHNAKUMARP20">
-<img src="https://img.shields.io/badge/💻%20GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
 ## 📱 KK Mobile OS
 
-> **Android-Based Mobile Operating System**
+### ⚡ Android-Based Mobile Operating System
 
-A mobile operating system project focused on creating a customized Android-based software experience.
+A mobile operating system project focused on creating a customized **Android-based software experience**.
 
-**Tech:** Android • TypeScript • Mobile Development
+**Tech:** `Android` • `TypeScript` • `Mobile Development`
 
-<p>
+<p align="center">
+
 <a href="https://github.com/KRISHNAKUMARP20/KK-MOBILE-OS">
-<img src="https://img.shields.io/badge/💻%20GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻%20VIEW%20PROJECT-7F00FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
 ## 🤖 JARVIS
 
-> **AI-Powered Voice Assistant**
+### 🧠 AI-Powered Voice Assistant
 
 A smart voice-controlled Android assistant designed to interact with users and automate phone functions using natural language.
 
-**Tech:** Android • TypeScript • AI • Voice Interaction
+**Tech:** `Android` • `TypeScript` • `AI` • `Voice Interaction`
 
-<p>
+<p align="center">
+
 <a href="https://github.com/KRISHNAKUMARP20/JARVIS">
-<img src="https://img.shields.io/badge/💻%20GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻%20VIEW%20PROJECT-00BFFF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
 ## 🪪 AI Document Verification
 
-> **AI-Powered Certificate & Document Verification**
+### 🔐 AI-Powered Certificate & Document Verification
 
-An intelligent document verification system using OCR, AI analysis, tamper detection, and authenticity scoring.
+An intelligent document verification system using **OCR, AI analysis, tamper detection, and authenticity scoring**.
 
-**Tech:** AI • OCR • TypeScript • Document Processing
+**Tech:** `AI` • `OCR` • `TypeScript` • `Document Processing`
 
-<p>
+<p align="center">
+
 <a href="https://github.com/KRISHNAKUMARP20/AI-Document-Verification">
-<img src="https://img.shields.io/badge/💻%20GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻%20VIEW%20PROJECT-FF1493?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
 ## 🚕 Advanced CAB
 
-> **Smart Cab Management Platform**
+### 🚗 Smart Cab Management Platform
 
-An advanced cab management system featuring booking, fare calculation, driver management, live tracking, smart driver matching, and emergency support.
+An advanced cab management system featuring **booking, fare calculation, driver management, live tracking, smart driver matching, and emergency support**.
 
-**Tech:** React • Java Spring Boot • PostgreSQL • Google Maps
+**Tech:** `React` • `Java Spring Boot` • `PostgreSQL` • `Google Maps`
 
-<p>
+<p align="center">
+
 <a href="https://github.com/KRISHNAKUMARP20/Advanced-CAB">
-<img src="https://img.shields.io/badge/💻%20GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻%20VIEW%20PROJECT-FF8C00?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
 ## 🚨 Women Safety System
 
-> **Emergency & Safety Platform**
+### 🛡️ Emergency & Safety Platform
 
-A safety-focused system providing SOS alerts, live location tracking, emergency photo sharing, parent notifications, and emergency-service alerts.
+A safety-focused system providing **SOS alerts, live location tracking, emergency photo sharing, parent notifications, and emergency-service alerts**.
 
-**Tech:** Web/Mobile Development • Location Services • Emergency Systems
+**Tech:** `Web/Mobile Development` • `Location Services` • `Emergency Systems`
 
-<p>
+<p align="center">
+
 <a href="https://github.com/KRISHNAKUMARP20/Women-Safety">
-<img src="https://img.shields.io/badge/💻%20GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/💻%20VIEW%20PROJECT-E91E63?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-# 💡 What I Like Building
+# 💡🌈 WHAT I LIKE BUILDING
 
 <div align="center">
 
 | 🌐 Web Applications | 🤖 AI Applications | 📱 Mobile Applications |
 |:---:|:---:|:---:|
-| Modern Websites | AI Assistants | Android Apps |
-| Full-Stack Apps | OCR Systems | Mobile Systems |
-| Dashboards | Smart Applications | KK Mobile OS |
+| 🖥️ Modern Websites | 🧠 AI Assistants | 📱 Android Apps |
+| ⚡ Full-Stack Apps | 📄 OCR Systems | ⚙️ Mobile Systems |
+| 📊 Dashboards | 🤖 Smart Applications | 🚀 KK Mobile OS |
+
+<br>
 
 | 🚕 Management Systems | 🔐 Security Systems | 🗄️ Backend Systems |
 |:---:|:---:|:---:|
-| Cab Management | Safety Applications | REST APIs |
-| Booking Systems | Authentication | Database Systems |
-| Tracking Systems | Document Security | Server Applications |
+| 🚗 Cab Management | 🛡️ Safety Applications | 🔗 REST APIs |
+| 📅 Booking Systems | 🔑 Authentication | 🗃️ Database Systems |
+| 📍 Tracking Systems | 📄 Document Security | ⚙️ Server Applications |
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊🔥 GITHUB ANALYTICS
 
 <div align="center">
 
@@ -275,7 +306,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNAKUMAR
 
 ---
 
-# 📈 GitHub Contribution Activity
+# 📈⚡ GITHUB CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -285,7 +316,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNAKUMAR
 
 ---
 
-# 🔥 GitHub Profile Summary
+# 🔥💻 GITHUB PROFILE SUMMARY
 
 <div align="center">
 
@@ -305,11 +336,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNAKUMAR
 
 ---
 
-# 🔭 Currently Building
+# 🔭🚀 CURRENTLY BUILDING
 
 <div align="center">
 
-| 🚀 Project | 🔥 Focus |
+| 🚀 PROJECT | 🔥 FOCUS |
 |:---|:---|
 | 📱 **KK Mobile OS** | Android & Mobile OS |
 | 🤖 **JARVIS** | AI & Voice Assistant |
@@ -321,17 +352,17 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNAKUMAR
 
 ---
 
-# 🎯 Current Focus
+# 🎯💫 CURRENT FOCUS
 
 <div align="center">
 
 ```text
-☕ Java Development
+☕ JAVA DEVELOPMENT
         ↓
-🌐 Full-Stack Development
+🌐 FULL-STACK DEVELOPMENT
         ↓
-🗄️ Database & Backend Development
+🗄️ DATABASE & BACKEND DEVELOPMENT
         ↓
-🤖 AI & Intelligent Applications
+🤖 AI & INTELLIGENT APPLICATIONS
         ↓
-🚀 Real-World Project Development
+🚀 REAL-WORLD PROJECT DEVELOPMENT
