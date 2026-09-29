@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡🌈 KK | KRISHNAKUMAR 🌈⚡
+# 🔱 ༒ KRISHNAKUMAR ༒ 🔱 ⚡KK⚡
 
 ### 💻 Full-Stack Developer • ☕ Java Developer • 🤖 AI & Web Enthusiast
 
