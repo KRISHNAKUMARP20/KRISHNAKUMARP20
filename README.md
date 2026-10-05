@@ -488,4 +488,4 @@ I enjoy working across:
 `<br>`{=html}`<br>`{=html}
 
 `<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:7C3AED,100:2563EB&height=180&section=footer&animation=twinkling"/>`{=html}
-:::
+::
