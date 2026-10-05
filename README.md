@@ -1,75 +1,68 @@
 <div align="center">
 
-<!-- ========================= HERO ========================= -->
+<!-- ========================================================= -->
+<!--                        KK // HERO                         -->
+<!-- ========================================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,30:111827,55:312E81,80:7C3AED,100:06B6D4&text=KRISHNAKUMAR&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20PROBLEM%20SOLVER&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,25:0F172A,50:312E81,75:7C3AED,100:06B6D4&text=KRISHNAKUMAR&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20DEVELOPER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20PROBLEM%20SOLVER&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=67E8F9&center=true&vCenter=true&width=1000&lines=%3E_+Initializing+KK+Developer+Profile...;%3E_+Java+Developer+%E2%98%95;%3E_+Full-Stack+Developer+%F0%9F%92%BB;%3E_+AI+%26+Web+Builder+%F0%9F%A4%96;%3E_+Android+%26+Mobile+Developer+%F0%9F%93%B1;%3E_+Building+Real-World+Projects+%F0%9F%9A%80"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=700&color=67E8F9&center=true&vCenter=true&width=1000&lines=%3E_+Initializing+KK+Developer+Profile...;%3E_+Java+Developer+%E2%98%95;%3E_+Full-Stack+Developer+%F0%9F%92%BB;%3E_+AI+%26+Web+Builder+%F0%9F%A4%96;%3E_+Android+%26+Mobile+Developer+%F0%9F%93%B1;%3E_+Building+Real-World+Software+%F0%9F%9A%80;%3E_+Ideas+%E2%86%92+Code+%E2%86%92+Products+%E2%9A%A1"/>
+
+
+
 
 <a href="https://github.com/KRISHNAKUMARP20">
-<img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/%3E__GITHUB-0B0F19?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://krishnakumarp.netlify.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/%3E__PORTFOLIO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/pkrishnakumar-kk">
-<img src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/%3E__LINKEDIN-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:kk6308608@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/%3E__EMAIL-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br><br>
+
+
 
 <img src="https://komarev.com/ghpvc/?username=KRISHNAKUMARP20&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"/>
 <img src="https://img.shields.io/github/followers/KRISHNAKUMARP20?label=FOLLOWERS&style=for-the-badge&color=06B6D4"/>
 <img src="https://img.shields.io/github/stars/KRISHNAKUMARP20?label=STARS&style=for-the-badge&color=F59E0B"/>
 
-<br><br>
 
-`☕ JAVA` • `🤖 AI` • `🌐 WEB` • `📱 MOBILE` • `🗄️ DATABASE` • `🐧 LINUX`
 
+
+☕ JAVA • 🤖 AI • 🌐 WEB • 📱 MOBILE • 🗄️ DATABASE • 🐧 LINUX • 🔐 SECURITY
 </div>
 
----
-
-# 🧬 `KK // DEVELOPER PROFILE`
-
+🧬 KK / IDENTITY
 <table>
 <tr>
 <td width="58%" valign="top">
 
-## 👋 Hello, I'm KK
-
-I'm **KRISHNAKUMAR**, an Information Technology student and aspiring software developer who enjoys turning ideas into **practical, modern and user-focused software**.
-
-I enjoy building applications across:
-
+👋 Hello, I'm KK
+I'm KRISHNAKUMAR, an Information Technology student and aspiring software developer who enjoys transforming ideas into practical, modern and user-focused applications.
+I enjoy working across:
 - ☕ Java & Backend Development
-- 🌐 Full-Stack Web Applications
+- 🌐 Full-Stack Web Development
 - 🤖 AI & Intelligent Applications
 - 📄 OCR & Document Systems
-- 📱 Android & Mobile Applications
+- 📱 Android & Mobile Development
 - 🗄️ Database Systems
 - 🐧 Linux & Development Environments
 - 🔐 Cybersecurity Fundamentals
 - ☁️ Deployment & Cloud
-
-### 🎯 My Development Philosophy
-
-> **Learn → Build → Test → Debug → Deploy → Improve**
-
-I believe the best way to learn technology is to **build real projects and solve real problems**.
-
+🎯 What drives me
+I like taking an idea from a simple concept and turning it into a working project.
+Learn → Build → Test → Debug → Deploy → Improve
 </td>
 
 <td width="42%" valign="top">
 
-## ⚡ `SYSTEM STATUS`
-
-```text
+⚡ SYSTEM STATUS
 ┌────────────────────────────┐
 │       KK DEVELOPER         │
 ├────────────────────────────┤
@@ -78,203 +71,188 @@ I believe the best way to learn technology is to **build real projects and solve
 │ DOMAIN     : SOFTWARE      │
 │ FOCUS      : REAL PROJECTS │
 │ STATUS     : ONLINE        │
-│ MINDSET    : KEEP BUILDING │
 │ LEARNING   : ACTIVE        │
+│ MINDSET    : KEEP BUILDING │
 └────────────────────────────┘
-```
-
-### 🧠 Current Mindset
-
-```text
-IDEA
- ↓
-RESEARCH
- ↓
-DESIGN
- ↓
-CODE
- ↓
-TEST
- ↓
-DEBUG
- ↓
-DEPLOY
- ↓
-IMPROVE
- ↺
-```
-
+🧠 Developer Loop
+💡 IDEA
+  ↓
+🧠 RESEARCH
+  ↓
+🎨 DESIGN
+  ↓
+💻 DEVELOP
+  ↓
+🧪 TEST
+  ↓
+🐛 DEBUG
+  ↓
+🚀 DEPLOY
+  ↓
+📊 ANALYZE
+  ↓
+🔥 IMPROVE
+  ↺
 </td>
 </tr>
 </table>
 
----
-
-# 🛠️ `TECHNOLOGY STACK`
-
+🛠️ TECH ARSENAL
 <div align="center">
 
-### 💻 Programming Languages
+💻 LANGUAGES
+<img src="https://skillicons.dev/icons?i=c,java,js,ts,python&perline=5"/>
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,c&perline=5"/>
 
-<br><br>
 
-### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,spring&perline=7"/>
+🌐 FRONTEND + BACKEND
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,spring&perline=6"/>
 
-<br><br>
 
-### 🗄️ Databases
 
+
+🗄️ DATABASE
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite&perline=4"/>
 
-<br><br>
 
-### 📱 Mobile Development
 
+
+📱 MOBILE
 <img src="https://skillicons.dev/icons?i=android&perline=4"/>
 
-<br><br>
 
-### 🧰 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,vercel,netlify&perline=7"/>
+
+🧰 TOOLS + PLATFORMS
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,vercel,netlify,linux&perline=7"/>
 
 </div>
 
----
-
-# 🚀 `FEATURED PROJECTS`
-
+🚀 PROJECT COMMAND CENTER
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🤖 JARVIS
-
-### AI Voice Assistant
-
-A smart Android assistant designed for natural-language interaction and phone automation.
-
-**Focus**
-
-`Android` `TypeScript` `AI`
-
-<br>
-
-<a href="https://github.com/KRISHNAKUMARP20/JARVIS">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0EA5E9?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🚕 ADVANCED CAB
-
-### Smart Transportation Platform
-
-Cab management platform featuring booking, fare calculation, driver management, tracking, smart matching and emergency support.
-
-**Stack**
-
-`React` `Spring Boot` `PostgreSQL`
-
-<br>
-
-<a href="https://github.com/KRISHNAKUMARP20/Advanced-CAB">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-F97316?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🪪 AI DOCUMENT VERIFICATION
-
-### Certificate & Document Verification
-
-AI-powered document verification system using OCR, AI analysis, tamper detection and authenticity scoring.
-
-**Focus**
-
-`AI` `OCR` `TypeScript`
-
-<br>
-
-<a href="https://github.com/KRISHNAKUMARP20/AI-Document-Verification">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-EC4899?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📱 KK MOBILE OS
-
-### Android-Based Mobile OS
-
-A customized Android-based mobile operating system project focused on creating a personalized mobile software experience.
-
-**Focus**
-
-`Android` `TypeScript`
-
-<br>
-
-<a href="https://github.com/KRISHNAKUMARP20/KK-MOBILE-OS">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🚨 WOMEN SAFETY
-
-### Emergency & Safety Platform
-
-Safety application featuring SOS alerts, location tracking, emergency photo sharing and parent notifications.
-
-**Focus**
-
-`Web` `Mobile` `Location Services`
-
-<br>
-
-<a href="https://github.com/KRISHNAKUMARP20/Women-Safety">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-E11D48?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🌐 KK DIGITAL WORLD
-
-### Personal Developer Portfolio
-
-A modern developer portfolio showcasing projects, skills, technologies and the development journey.
-
-**Stack**
-
-`HTML` `CSS` `JavaScript`
-
-<br>
+🌐 KK DIGITAL WORLD
+Personal Developer Portfolio
+A modern portfolio showcasing skills, projects, technologies and my development journey.
+Stack
+HTML CSS JavaScript
 
 <a href="https://krishnakumarp.netlify.app">
-<img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-00C7B7?style=for-the-badge&logo=netlify"/>
+<img src="https://img.shields.io/badge/OPEN_PORTFOLIO-00C7B7?style=for-the-badge&logo=netlify"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+📱 KK MOBILE OS
+Android-Based Mobile OS
+A customized Android-based software experience focused on mobile operating-system development.
+Focus
+Android TypeScript
+
+<a href="https://github.com/KRISHNAKUMARP20/KK-MOBILE-OS">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-7C3AED?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+🤖 JARVIS
+AI Voice Assistant
+A smart Android assistant designed for natural-language interaction and phone automation.
+Focus
+Android TypeScript AI
+
+<a href="https://github.com/KRISHNAKUMARP20/JARVIS">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0EA5E9?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+🪪 AI DOCUMENT VERIFICATION
+Certificate & Document Verification
+AI-powered document verification using OCR, AI analysis, tamper detection and authenticity scoring.
+Focus
+AI OCR TypeScript
+
+<a href="https://github.com/KRISHNAKUMARP20/AI-Document-Verification">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-EC4899?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+🚕 ADVANCED CAB
+Smart Transportation Platform
+A cab management platform featuring booking, fare calculation, driver management, live tracking, smart matching and emergency support.
+Stack
+React Spring Boot PostgreSQL
+
+<a href="https://github.com/KRISHNAKUMARP20/Advanced-CAB">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-F97316?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+🚨 WOMEN SAFETY
+Emergency & Safety Platform
+A safety system featuring SOS alerts, live location tracking, emergency photo sharing and parent notifications.
+Focus
+Web Mobile Location Services
+
+<a href="https://github.com/KRISHNAKUMARP20/Women-Safety">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-E11D48?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+🗄️ KK SQL QUERIES
+KK SQL Academy
+An interactive SQL learning platform covering beginner-to-advanced SQL, tutorials, examples, practice problems, quizzes, a SQL playground and projects.
+Focus
+SQL TypeScript Database
+
+<a href="https://github.com/KRISHNAKUMARP20/KK-SQLQUERIES">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-14B8A6?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+🎮 KK GUESS
+Number Guessing Game
+A web-based number guessing game project focused on levels, scoring and interactive gameplay.
+Focus
+JavaScript Web Game
+
+<a href="https://kkguess.vercel.app">
+<img src="https://img.shields.io/badge/PLAY_GAME-6366F1?style=for-the-badge"/>
 </a>
 
 </td>
@@ -282,156 +260,139 @@ A modern developer portfolio showcasing projects, skills, technologies and the d
 </tr>
 </table>
 
----
-
-# 🎯 `WHAT I BUILD`
-
+🎯 WHAT I LOVE BUILDING
 <div align="center">
 
-| 🌐 WEB | 🤖 AI | 📱 MOBILE | 🚕 SYSTEMS |
-|:---:|:---:|:---:|:---:|
-| Full-Stack Apps | AI Assistants | Android Apps | Cab Management |
-| Modern Websites | OCR Systems | Mobile OS | Booking Systems |
-| Dashboards | Smart Applications | Mobile Systems | Tracking Systems |
+🌐 WEB	🤖 AI	📱 MOBILE	🚕 SYSTEMS
+Full-Stack Apps	AI Assistants	Android Apps	Cab Management
+Modern Websites	OCR Systems	Mobile OS	Booking Systems
+Dashboards	Smart Applications	Mobile Systems	Tracking Systems
 
-<br>
 
-| 🔐 SECURITY | 🗄️ BACKEND | ☁️ CLOUD | 🧪 ENGINEERING |
-|:---:|:---:|:---:|:---:|
-| Authentication | REST APIs | Vercel | Testing |
-| Safety Applications | Databases | Netlify | Debugging |
-| Document Security | Server Applications | GitHub | Deployment |
+
+🔐 SECURITY	🗄️ BACKEND	☁️ CLOUD	🧪 ENGINEERING
+Authentication	REST APIs	Vercel	Testing
+Safety Applications	Databases	Netlify	Debugging
+Document Security	Server Applications	GitHub	Deployment
+
 
 </div>
 
----
-
-# 🔭 `CURRENTLY BUILDING`
-
+🔭 CURRENTLY BUILDING
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2300&pause=700&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+KK+Mobile+OS+%F0%9F%93%B1;Building+JARVIS+AI+Assistant+%F0%9F%A4%96;Building+AI+Document+Verification+%F0%9F%AA%AA;Building+Advanced+CAB+%F0%9F%9A%95;Building+KK+Digital+World+%F0%9F%8C%90"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2300&pause=700&color=A78BFA&center=true&vCenter=true&width=950&lines=Building+KK+Mobile+OS+%F0%9F%93%B1;Building+JARVIS+AI+Assistant+%F0%9F%A4%96;Building+AI+Document+Verification+%F0%9F%AA%AA;Building+Advanced+CAB+%F0%9F%9A%95;Building+KK+Digital+World+%F0%9F%8C%90;Learning+Java+and+Full-Stack+Development+%E2%98%95"/>
 
-<br><br>
 
-| PROJECT | FOCUS |
-|:---|:---|
-| 📱 **KK Mobile OS** | Android & Mobile OS |
-| 🤖 **JARVIS** | AI & Voice Assistant |
-| 🪪 **AI Document Verification** | OCR & AI |
-| 🚕 **Advanced CAB** | Smart Transportation |
-| 🌐 **KK Digital World** | Web Development |
+
+
+PROJECT	CURRENT FOCUS
+📱 KK Mobile OS	Android & Mobile OS
+🤖 JARVIS	AI & Voice Assistant
+🪪 AI Document Verification	OCR & AI
+🚕 Advanced CAB	Smart Transportation
+🌐 KK Digital World	Web Development
+🗄️ KK SQL Academy	SQL & Database Learning
+
 
 </div>
 
----
-
-# 📚 `LEARNING ROADMAP`
-
+📚 LEARNING PIPELINE
 <div align="center">
 
-```text
-                 ☕ JAVA
-                   │
-                   ▼
-             🌐 FULL-STACK
-                   │
-                   ▼
-              ⚙️ BACKEND
-                   │
-                   ▼
-             🗄️ DATABASE
-                   │
-                   ▼
-                🤖 AI
-                   │
-                   ▼
-              📱 MOBILE
-                   │
-                   ▼
-               🐧 LINUX
-                   │
-                   ▼
-          🔐 CYBERSECURITY
-                   │
-                   ▼
-          🚀 REAL PROJECTS
-                   │
-                   ▼
-            💡 INNOVATION
-```
+                    ☕ JAVA
+                      │
+                      ▼
+                🌐 FULL-STACK
+                      │
+                      ▼
+                  ⚙️ BACKEND
+                      │
+                      ▼
+                 🗄️ DATABASE
+                      │
+                      ▼
+                    🤖 AI
+                      │
+                      ▼
+                  📱 MOBILE
+                      │
+                      ▼
+                   🐧 LINUX
+                      │
+                      ▼
+              🔐 CYBERSECURITY
+                      │
+                      ▼
+              🚀 REAL PROJECTS
+                      │
+                      ▼
+                💡 INNOVATION
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=800&color=67E8F9&center=true&vCenter=true&width=850&lines=Learn+the+fundamentals;%3E+Practice+the+concepts;%3E+Build+the+project;%3E+Debug+the+problems;%3E+Deploy+the+solution;%3E+Improve+continuously"/>
 
 </div>
 
----
-
-# 📊 `GITHUB COMMAND CENTER`
-
+📊 KK // GITHUB COMMAND CENTER
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=KRISHNAKUMARP20&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/KRISHNAKUMARP20">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=KRISHNAKUMARP20&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="KK GitHub Stats"/>
+</a>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNAKUMARP20&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<a href="https://github.com/KRISHNAKUMARP20">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNAKUMARP20&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="KK Top Languages"/>
+</a>
 
-<br><br>
 
-<img src="https://streak-stats.demolab.com/?user=KRISHNAKUMARP20&theme=tokyonight&hide_border=true"/>
+
+
+<img src="https://streak-stats.demolab.com/?user=KRISHNAKUMARP20&theme=tokyonight&hide_border=true&border_radius=12" alt="KK GitHub Streak"/>
 
 </div>
 
----
-
-# 📈 `CONTRIBUTION ACTIVITY`
-
+📈 CONTRIBUTION MATRIX
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KRISHNAKUMARP20&theme=tokyo-night&hide_border=true&area=true&custom_title=KK%20Contribution%20Activity" alt="KK Contribution Activity"/>
 
-</div>
 
----
 
-# 🏆 `ACHIEVEMENTS`
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KRISHNAKUMARP20&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2300&pause=700&color=06B6D4&center=true&vCenter=true&width=850&lines=Every+commit+builds+experience+%F0%9F%94%A5;Every+bug+teaches+something+%F0%9F%90%9B;Every+project+adds+another+skill+%F0%9F%9A%80;Keep+building+%E2%80%A2+Keep+learning+%E2%80%A2+Keep+improving"/>
 
 </div>
 
----
-
-# 🐍 `CONTRIBUTION JOURNEY`
-
+🐍 KK // CONTRIBUTION JOURNEY
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KRISHNAKUMARP20/KRISHNAKUMARP20/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/KRISHNAKUMARP20/KRISHNAKUMARP20/output/github-snake-dark.svg" alt="KK GitHub Contribution Snake" width="100%"/>
+
+
+
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2400&pause=800&color=A78BFA&center=true&vCenter=true&width=850&lines=Contribution+journey+in+motion+%F0%9F%90%8D;Code+%E2%86%92+Commit+%E2%86%92+Learn+%E2%86%92+Repeat;%F0%9F%9A%80+Building+one+project+at+a+time"/>
 
 </div>
 
----
-
-# 🔥 `PROFILE ANALYTICS`
-
+🏆 ACHIEVEMENTS
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KRISHNAKUMARP20&theme=tokyonight" alt="GitHub Profile Details"/>
+<img src="https://img.shields.io/badge/%F0%9F%A6%88%20PULL%20SHARK-x2-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%8E%AF%20YOLO-Achievement-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%E2%9A%A1%20QUICKDRAW-Achievement-F59E0B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%F0%9F%9A%80%20BUILDING-Real%20Projects-EC4899?style=for-the-badge"/>
 
-<br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KRISHNAKUMARP20&theme=tokyonight" alt="Repositories by Language"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KRISHNAKUMARP20&theme=tokyonight" alt="Most Commit Language"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=67E8F9&center=true&vCenter=true&width=800&lines=Pull+Shark+x2+%F0%9F%A6%88;YOLO+%F0%9F%8E%AF;Quickdraw+%E2%9A%A1;Building+Real-World+Software+%F0%9F%9A%80"/>
 
 </div>
 
----
-
-# 💻 `KK TERMINAL`
-
+💻 KK // DEVELOPER TERMINAL
 <div align="center">
 
-```text
 ╭──────────────────────────────────────────────────────────────╮
 │                    KK // DEVELOPER SHELL                     │
 ├──────────────────────────────────────────────────────────────┤
@@ -464,135 +425,114 @@ A modern developer portfolio showcasing projects, skills, technologies and the d
 │  > KEEP BUILDING...                                          │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
-```
-
 </div>
 
----
-
-# 🧠 `DEVELOPER MINDSET`
-
+🧠 DEVELOPER MINDSET
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=F472B6&center=true&vCenter=true&width=900&lines=%F0%9F%92%A1+THINK+BIG;%F0%9F%92%BB+CODE+SMART;%F0%9F%A7%AA+TEST+EVERYTHING;%F0%9F%90%9B+DEBUG+FEARLESSLY;%F0%9F%9A%80+BUILD+REAL+PROJECTS;%F0%9F%94%A5+NEVER+STOP+LEARNING"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2200&pause=900&color=F472B6&center=true&vCenter=true&width=900&lines=%F0%9F%92%A1+THINK+BIG;%F0%9F%92%BB+CODE+SMART;%F0%9F%A7%AA+TEST+EVERYTHING;%F0%9F%90%9B+DEBUG+FEARLESSLY;%F0%9F%9A%80+BUILD+REAL+PROJECTS;%F0%9F%94%A5+NEVER+STOP+LEARNING"/>
 
-<br>
 
-### `THINK` → `CREATE` → `EXPERIMENT` → `LEARN` → `IMPROVE`
 
+
+THINK → CREATE → EXPERIMENT → LEARN → IMPROVE
 </div>
 
----
-
-# 📌 `QUICK FACTS`
-
+📌 QUICK PROFILE
 <table align="center">
-
 <tr>
+
 <td align="center">
-
-### ☕ Primary
-
-**Java**
-
+<h3>☕ PRIMARY</h3>
+<b>JAVA</b>
 </td>
 
 <td align="center">
-
-### 🌐 Focus
-
-**Full-Stack**
-
+<h3>🌐 FOCUS</h3>
+<b>FULL-STACK</b>
 </td>
 
 <td align="center">
-
-### 🤖 Interest
-
-**AI**
-
+<h3>🤖 INTEREST</h3>
+<b>AI</b>
 </td>
 
 <td align="center">
-
-### 📱 Platform
-
-**Android**
-
+<h3>📱 PLATFORM</h3>
+<b>ANDROID</b>
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center">
-
-### 🗄️ Data
-
-**SQL / NoSQL**
-
+<h3>🗄️ DATA</h3>
+<b>SQL / NoSQL</b>
 </td>
 
 <td align="center">
-
-### 🐧 Environment
-
-**Linux**
-
+<h3>🐧 ENVIRONMENT</h3>
+<b>LINUX</b>
 </td>
 
 <td align="center">
-
-### 🚀 Goal
-
-**Real Projects**
-
+<h3>🚀 GOAL</h3>
+<b>REAL PROJECTS</b>
 </td>
 
 <td align="center">
-
-### 🧠 Mindset
-
-**Keep Building**
-
+<h3>🧠 MINDSET</h3>
+<b>KEEP BUILDING</b>
 </td>
+
 </tr>
-
 </table>
 
----
+🌟 WHY I BUILD
+<div align="center">
 
-# 🌐 `CONNECT WITH KK`
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│   I DON'T JUST WANT TO LEARN TECHNOLOGY.                    │
+│                                                              │
+│   I WANT TO USE IT.                                          │
+│                                                              │
+│   IDEA        →        CODE                                  │
+│   CODE        →        PROJECT                                │
+│   PROJECT     →        SOLUTION                               │
+│   SOLUTION    →        REAL-WORLD IMPACT                      │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+</div>
 
+🔗 CONNECT WITH KK
 <div align="center">
 
 <a href="https://krishnakumarp.netlify.app">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 
 <a href="https://github.com/KRISHNAKUMARP20">
-<img src="https://img.shields.io/badge/💻%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/%F0%9F%92%BB%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pkrishnakumar-kk">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/%F0%9F%92%BC%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:kk6308608@gmail.com">
-<img src="https://img.shields.io/badge/📧%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%A7%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
-
----
 
 <details>
 <summary><b>📂 More About My Development Journey</b></summary>
 
-<br>
 
-My development journey focuses on learning technologies by applying them to practical projects.
-
-### Current Areas
-
+My development journey is centered around learning technologies through practical projects and continuous experimentation.
+Current Areas
 - ☕ Java Programming
 - 🌐 Web Development
 - ⚙️ Backend Development
@@ -602,39 +542,32 @@ My development journey focuses on learning technologies by applying them to prac
 - 🐧 Linux
 - 🔐 Cybersecurity Fundamentals
 - 🚀 Deployment & Cloud
-
-### Development Cycle
-
-```text
-Learn
+Development Cycle
+LEARN
   ↓
-Practice
+PRACTICE
   ↓
-Build
+BUILD
   ↓
-Break
+BREAK
   ↓
-Debug
+DEBUG
   ↓
-Understand
+UNDERSTAND
   ↓
-Improve
+IMPROVE
   ↓
-Build Again
-```
-
+BUILD AGAIN
 </details>
-
----
 
 <div align="center">
 
-## ⭐ `KEEP LEARNING • KEEP BUILDING • KEEP INNOVATING`
+⭐ KEEP LEARNING • KEEP BUILDING • KEEP INNOVATING
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;See+you+in+the+next+project!+%F0%9F%9A%80;Keep+Building%2C+KK+%E2%9A%A1;Ideas+%E2%86%92+Code+%E2%86%92+Innovation+%F0%9F%94%A5"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=850&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;See+you+in+the+next+project!+%F0%9F%9A%80;Keep+Building%2C+KK+%E2%9A%A1;Ideas+%E2%86%92+Code+%E2%86%92+Innovation+%F0%9F%94%A5"/>
 
-<br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:2563EB,65:7C3AED,100:BE185D&height=160&section=footer&animation=twinkling"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:2563EB,65:7C3AED,100:BE185D&height=170&section=footer&animation=twinkling"/>
 
 </div>
