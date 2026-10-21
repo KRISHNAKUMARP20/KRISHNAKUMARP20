@@ -1,121 +1,146 @@
-<div align="center">
+ <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,25:312E81,55:7C3AED,80:06B6D4,100:EC4899&text=KRISHNAKUMAR%20%7C%20KK&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Developer%20%7C%20Java%20%7C%20Web%20%7C%20AI&descAlignY=60&descSize=18"/>
+# KRISHNAKUMAR K. | KK
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2200&pause=650&color=22D3EE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+KK+%F0%9F%91%8B;IT+Student+%7C+Developer;Building+useful+digital+experiences;Java+%E2%80%A2+Web+Development+%E2%80%A2+AI;Learn+%E2%86%92+Build+%E2%86%92+Improve" alt="Animated introduction"/>
+### Information Technology Student · Software Developer · AI Enthusiast
 
-<br/>
-<a href="https://krishnakumarp.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-06B6D4?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-<a href="https://github.com/KRISHNAKUMARP20"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/pkrishnakumar-kk"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:kk6308608@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<br/><br/>
-<img src="https://komarev.com/ghpvc/?username=KRISHNAKUMARP20&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/KRISHNAKUMARP20?style=flat-square&color=06B6D4&label=Followers"/>
+Building practical applications. Exploring AI. Turning ideas into software.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://krishnakumarp.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KRISHNAKUMARP20)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pkrishnakumar-kk)
+
+![Profile Views](https://komarev.com/ghpvc/?username=KRISHNAKUMARP20&style=flat-square&color=6366F1)
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm **Krishnakumar (KK)**, an Information Technology student at **M. Kumarasamy College of Engineering** who enjoys turning ideas into practical software.
+Hi, I'm **Krishnakumar (KK)**, an Information Technology student at **M. Kumarasamy College of Engineering** with an interest in software development, artificial intelligence, and modern web technologies.
 
-- ☕ Focused on Java and software development
-- 🌐 Building responsive web applications and user-friendly interfaces
-- 🤖 Exploring AI-powered tools and document workflows
-- 🗄️ Learning database design, APIs, and backend development
-- 🐧 Working with Linux, Git, and open-source tools
-- 🚀 Improving through hands-on projects and continuous learning
+- 🎓 Pursuing B.Tech in Information Technology (2024–2028).
+- 💻 Developing projects using Java, Python, and web technologies.
+- 🤖 Exploring AI-powered applications and intelligent document workflows.
+- 🌐 Interested in full-stack development and API integration.
+- 🔐 Learning about cybersecurity and secure software development.
+- 🚀 Focused on building useful projects and improving my problem-solving skills.
 
-> **My approach:** Learn → Build → Test → Debug → Deploy → Improve
+**My philosophy:** Learn continuously. Build thoughtfully. Improve consistently.
 
-## 🧰 Tech Stack
+---
+
+## 🛠️ Technologies & Tools
 
 <div align="center">
 
-**Languages**
+**Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js,ts&perline=5" alt="Programming languages"/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Web Development**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,spring&perline=6" alt="Web development technologies"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 **Databases, Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite,git,github,vscode,idea,linux,vercel,netlify&perline=6" alt="Databases and tools"/>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
+
+---
 
 ## 🚀 Featured Projects
 
 | Project | Description | Links |
 |---|---|---|
-| 🚨 **Women Safety** | Safety-focused web platform | [Code](https://github.com/KRISHNAKUMARP20/Women-Safety) · [Live](https://women-safety-mi3v.onrender.com) |
-| 🤖 **JARVIS AI Assistant** | AI voice-assistant project | [Code](https://github.com/KRISHNAKUMARP20/JARVIS) · [Live](https://kkjarvis.netlify.app) |
-| 🪪 **AI Document Verification** | OCR and document-analysis project | [Code](https://github.com/KRISHNAKUMARP20/AI-Document-Verification) · [Live](https://kkaidocumentverify.vercel.app) |
-| 📱 **KK Mobile OS** | Android-based mobile OS project | [Explore](https://github.com/KRISHNAKUMARP20/KK-MOBILE-OS) |
-| 🚕 **KK Smart Cab** | Cab-booking interface with map features | [Live](https://kk-smart-cab.vercel.app) |
-| 🎮 **KK Guess** | Interactive number-guessing game | [Play](https://kkguess.vercel.app) |
-| 🗄️ **SQL Learn** | Interactive SQL learning platform | [Live](https://kksqlquery.vercel.app) |
-| 🏨 **KK Hotel Booking** | Hotel-search and booking interface | [Live](https://kk-hotel.vercel.app) |
+| 🚨 **Women Safety** | A web platform focused on women's safety. | [Repository](https://github.com/KRISHNAKUMARP20/Women-Safety) · [Live Demo](https://women-safety-mi3v.onrender.com) |
+| 🤖 **JARVIS AI Assistant** | An AI assistant project exploring interactive assistance. | [Repository](https://github.com/KRISHNAKUMARP20/JARVIS) · [Live Demo](https://kkjarvis.netlify.app) |
+| 🪪 **AI Document Verification** | A project focused on document verification and analysis. | [Repository](https://github.com/KRISHNAKUMARP20/AI-Document-Verification) · [Live Demo](https://kkaidocumentverify.vercel.app) |
+| 📱 **KK Mobile OS** | An Android-based mobile operating system project. | [Repository](https://github.com/KRISHNAKUMARP20/KK-MOBILE-OS) |
+| 🚕 **KK Smart Cab** | A cab-booking interface with map-related features. | [Live Demo](https://kk-smart-cab.vercel.app) |
+| 🎮 **KK Guess** | An interactive number-guessing game. | [Play Game](https://kkguess.vercel.app) |
+| 🗄️ **SQL Learn** | An interactive platform for learning SQL. | [Live Demo](https://kksqlquery.vercel.app) |
+| 🏨 **KK Hotel Booking** | A hotel search and booking interface. | [Live Demo](https://kk-hotel.vercel.app) |
 
 <details>
-<summary><b>More projects</b></summary>
+<summary><b>Explore more projects</b></summary>
 
-- [Account Monitor](https://accmonitor.vercel.app) — security-monitoring web app
-- [KK Child Web](https://kkweb-one.vercel.app) — interactive learning experience
-- [Advanced Cab](https://github.com/KRISHNAKUMARP20/Advanced-CAB) — transportation platform
+- [Account Monitor](https://accmonitor.vercel.app) — Security-monitoring web application.
+- [KK Child Web](https://kkweb-one.vercel.app) — Interactive web-based learning experience.
+- [Advanced Cab](https://github.com/KRISHNAKUMARP20/Advanced-CAB) — Transportation platform project.
 
 </details>
 
-## 📊 GitHub Analytics
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KRISHNAKUMARP20&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNAKUMARP20&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=KRISHNAKUMARP20&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 
-<br/>
-<img width="70%" src="https://streak-stats.demolab.com?user=KRISHNAKUMARP20&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KRISHNAKUMARP20&layout=compact&theme=transparent&hide_border=true&langs_count=6" alt="Most-used languages" />
 
-</div>
+<img width="70%" src="https://streak-stats.demolab.com?user=KRISHNAKUMARP20&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
 
-## 🌌 Contribution Activity
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KRISHNAKUMARP20&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=EC4899&area=true&hide_border=true&custom_title=KK%27s%20Contribution%20Activity" alt="Contribution activity graph"/>
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img width="100%" src="https://raw.githubusercontent.com/KRISHNAKUMARP20/KRISHNAKUMARP20/output/github-snake-dark.svg" alt="GitHub contribution snake animation"/>
-</div>
-
-## 🎓 Education & Experience
-
-- 🎓 **B.Tech — Information Technology**, M. Kumarasamy College of Engineering (2024–2028)
-- 🔐 **Cyber Security Intern — Kaashiv InfoTech** (June–July 2026)
-- 🌐 **Web Development Intern — iStudio Technologies** (December 2025–January 2026)
-
-## 📬 Let's Connect
-
-<div align="center">
-
-I'm interested in software projects, internships, learning opportunities, and developer collaboration.
-
-<a href="mailto:kk6308608@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/pkrishnakumar-kk"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://krishnakumarp.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Explore_my_work-06B6D4?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-
-<br/><br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:EC4899,30:7C3AED,65:2563EB,100:06B6D4&animation=twinkling"/>
-
-**Thanks for visiting — keep learning, building, and improving!** ✨
 </div>
 
 ---
 
-### Contribution snake setup
-The snake image needs a GitHub Actions workflow in your profile repository (`KRISHNAKUMARP20/KRISHNAKUMARP20`) to generate the `output` branch. If it does not appear, configure a contribution-snake workflow or remove that image line. GitHub README supports animated GIF/SVG images, but not custom JavaScript or CSS animations.
+## 🎓 Education & Experience
+
+**Education**
+
+- B.Tech — Information Technology
+- M. Kumarasamy College of Engineering
+- 2024–2028
+
+**Internship Experience**
+
+- **Cyber Security Intern** — Kaashiv InfoTech · June–July 2026
+- **Web Development Intern** — iStudio Technologies · December 2025–January 2026
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening Java and data structures and algorithms.
+- Developing responsive web applications.
+- Exploring AI and machine learning integrations.
+- Improving backend development, databases, and API design.
+- Building projects that solve practical problems.
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to connecting with developers, collaborating on projects, learning new technologies, and exploring internship opportunities.
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kk6308608@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pkrishnakumar-kk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://krishnakumarp.netlify.app)
+
+---
+
+*“Great software starts with curiosity, grows through practice, and improves with every iteration.”*
+
+</div>
