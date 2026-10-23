@@ -99,7 +99,7 @@ IT student passionate about software development, AI, and cybersecurity. I love 
 
 <div align="center">
 
-[![Explore My Portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://krishnakumarp.netlify.app/)
+[![Explore My Portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://krishnakumar.netlify.app)
 
 </div>
 ---
