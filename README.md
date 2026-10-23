@@ -73,16 +73,6 @@ IT student passionate about software development, AI, and cybersecurity. I love 
 
 ---
 
-## 🐍 Contribution Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/KRISHNAKUMARP20/KRISHNAKUMARP20/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%" />
-
-</div>
-
----
-
 ## 🚀 My Projects
 
 - 🧠 [IntelliScribe](https://intelliscribe-kkllm.vercel.app/)
