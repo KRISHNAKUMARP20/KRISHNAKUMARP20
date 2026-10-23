@@ -37,7 +37,7 @@ IT student passionate about software development, AI, and cybersecurity. I love 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js,ts,html,css,react,nodejs,express,spring,mysql,mongodb,supabase,git,github,linux,vscode,vercel&theme=dark" alt="My technology stack" />
+<img src="https://skillicons.dev/icons?i=github,linux,vercel,vscode,java,html,mongodb,ts,c,js&theme=dark" alt="GitHub, Linux, Vercel, VS Code, Java, HTML, MongoDB, TypeScript, C and JavaScript" alt="My technology stack" />
 
 </div>
 
