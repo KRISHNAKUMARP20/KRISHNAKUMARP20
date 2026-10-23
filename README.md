@@ -85,24 +85,23 @@ IT student passionate about software development, AI, and cybersecurity. I love 
 
 ## 🚀 My Projects
 
-- 🤖 [JARVIS AI Assistant](https://github.com/KRISHNAKUMARP20/JARVIS)
-- 🛡️ [AI Document Verification](https://github.com/KRISHNAKUMARP20/AI-Document-Verification)
-- 🚨 [Women Safety](https://github.com/KRISHNAKUMARP20/Women-Safety)
-- 📱 [KK Mobile OS](https://github.com/KRISHNAKUMARP20/KK-MOBILE-OS)
-- 🚕 [KK Smart Cab](https://kk-smart-cab.vercel.app/)
-- 🎮 [KK Guess](https://kkguess.vercel.app/)
-- 🗄️ [SQL Learn](https://kksqlquery.vercel.app/)
-- 🏨 [KK Hotel Booking](https://kk-hotel.vercel.app/)
+- 🧠 [IntelliScribe](https://intelliscribe-kkllm.vercel.app/)
+- 🚨 [Women Safety](https://women-safety-mi3v.onrender.com/)
+- 🤖 [JARVIS AI Assistant](https://kkjarvis.netlify.app/)
+- 🛡️ [AI Document Verification](https://kkaidocumentverify.vercel.app/)
 - 🔐 [Account Monitor](https://accmonitor.vercel.app/)
+- 🏨 [KK Hotel Booking](https://kk-hotel.vercel.app/)
+- 🚕 [KK Smart Cab](https://kk-smart-cab.vercel.app/)
 - 🌐 [KK Child Web](https://kkweb-one.vercel.app/)
-- 🚖 [Advanced Cab](https://github.com/KRISHNAKUMARP20/Advanced-CAB)
+- 🎮 [KK Guess Number](https://kkguess.vercel.app/)
+- 🚖 [Advance Cab](https://advancecab.netlify.app/)
+- 🗄️ [SQL Learn](https://kksqlquery.vercel.app/)
 
 <div align="center">
 
-[![Explore All Projects](https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KRISHNAKUMARP20?tab=repositories)
+[![Explore My Portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://krishnakumarp.netlify.app/)
 
 </div>
-
 ---
 
 ## 🤝 Connect With Me
